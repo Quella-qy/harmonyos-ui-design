@@ -10,4 +10,4 @@
 - 保障各页面交互体验的连贯性。
 
 ## 界面预览
-[项目演示 PPT（PDF版）](docs/HarmonyOS_UI_Design_Presentation.pdf)
+[项目演示 PPT（PDF版）](HarmonyOS_UI_Design_Presentation.pdf)
