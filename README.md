@@ -10,5 +10,4 @@
 - 保障各页面交互体验的连贯性。
 
 ## 界面预览
-![首页](images/home.png) 
-*(注：你需要把UI设计图或运行截图放入仓库的 images 文件夹内，并把这里的路径改成你实际的文件名)*
+[项目演示 PPT（PDF版）](docs/HarmonyOS_UI_Design_Presentation.pdf)
